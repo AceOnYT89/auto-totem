@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "autototem",
-  "version": "1.2",
+  "version": "1.2.0",
   "name": "Autototem",
   "description": "Automatically moves a Totem of Undying to the offhand.",
   "environment": "client",
